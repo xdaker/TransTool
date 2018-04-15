@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransTool", "TransTool\TransTool.csproj", "{8B022DB1-3EAC-470A-8CDB-A4D5C9671CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B022DB1-3EAC-470A-8CDB-A4D5C9671CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B022DB1-3EAC-470A-8CDB-A4D5C9671CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B022DB1-3EAC-470A-8CDB-A4D5C9671CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B022DB1-3EAC-470A-8CDB-A4D5C9671CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA441D7A-C90B-4C6D-8E58-446795EFD752}
+	EndGlobalSection
+EndGlobal

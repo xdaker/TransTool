@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Config Application="TaskControl" Language="CHINESE_SIMPLIFIED">
+    <Row TextID="mainWindowName">
+      <ENGLISH>FCC V5.2.3 Build 0820</ENGLISH>
+      <CHINESE_SIMPLIFIED>FCC V5.2.3 Build 0820</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>FCC v5.2.3建立0820</CHINESE_Traditional>
+    </Row>
+    <Row TextID="authorizeMsg">
+      <ENGLISH>This file type or machine is not authorized, can not be used</ENGLISH>
+      <CHINESE_SIMPLIFIED>加工文件类型或机机器类型未授权，不能使用</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加工檔案類型或機機器類型未授權，不能使用</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tblUseGFileTypeText">
+      <ENGLISH>Default file type:</ENGLISH>
+      <CHINESE_SIMPLIFIED>默认加工文件类型：</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>默認加工檔案類型：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="panelID">
+      <ENGLISH>Panel ID:</ENGLISH>
+      <CHINESE_SIMPLIFIED>工件ID：</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工件ID：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnSelection">
+      <ENGLISH>Selection</ENGLISH>
+      <CHINESE_SIMPLIFIED>选取</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>選取</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnLoadFile">
+      <ENGLISH>Load file</ENGLISH>
+      <CHINESE_SIMPLIFIED>加载文件</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加載檔案</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnMachiningFilter">
+      <ENGLISH>Machining filter</ENGLISH>
+      <CHINESE_SIMPLIFIED>加工过滤</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加工過濾</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnDataimport">
+      <ENGLISH>Data import</ENGLISH>
+      <CHINESE_SIMPLIFIED>数据导入</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>數據導入</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnStart">
+      <ENGLISH>Start</ENGLISH>
+      <CHINESE_SIMPLIFIED>开始</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>開始</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnStop">
+      <ENGLISH>Stop</ENGLISH>
+      <CHINESE_SIMPLIFIED>停止</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>停止</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnReset">
+      <ENGLISH>Reset</ENGLISH>
+      <CHINESE_SIMPLIFIED>重置</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>重置</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnPause">
+      <ENGLISH>Pause</ENGLISH>
+      <CHINESE_SIMPLIFIED>暂停</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>暫停</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnContinue">
+      <ENGLISH>CONT</ENGLISH>
+      <CHINESE_SIMPLIFIED>继续</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>繼續</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnTop">
+      <ENGLISH>Top</ENGLISH>
+      <CHINESE_SIMPLIFIED>置顶</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>置頂</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnUp">
+      <ENGLISH>Up</ENGLISH>
+      <CHINESE_SIMPLIFIED>上移</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>上移</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnDown">
+      <ENGLISH>Down</ENGLISH>
+      <CHINESE_SIMPLIFIED>下移</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>下移</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnDelete">
+      <ENGLISH>Delete</ENGLISH>
+      <CHINESE_SIMPLIFIED>删除</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>删除</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnSearch">
+      <ENGLISH>Search</ENGLISH>
+      <CHINESE_SIMPLIFIED>查找</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>查找</CHINESE_Traditional>
+    </Row>
+    <Row TextID="serial">
+      <ENGLISH>Serial</ENGLISH>
+      <CHINESE_SIMPLIFIED>串行</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>串列</CHINESE_Traditional>
+    </Row>
+    <Row TextID="parallel">
+      <ENGLISH>Parallel</ENGLISH>
+      <CHINESE_SIMPLIFIED>并行</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>並行</CHINESE_Traditional>
+    </Row>
+    <Row TextID="activate">
+      <ENGLISH>Activate</ENGLISH>
+      <CHINESE_SIMPLIFIED>激活</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>啟動</CHINESE_Traditional>
+    </Row>
+    <Row TextID="selectAll">
+      <ENGLISH>Select All</ENGLISH>
+      <CHINESE_SIMPLIFIED>全选</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>全選</CHINESE_Traditional>
+    </Row>
+    <Row TextID="index">
+      <ENGLISH>Index</ENGLISH>
+      <CHINESE_SIMPLIFIED>索引</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>索引</CHINESE_Traditional>
+    </Row>
+    <Row TextID="program">
+      <ENGLISH>Program</ENGLISH>
+      <CHINESE_SIMPLIFIED>程序</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>程式</CHINESE_Traditional>
+    </Row>
+    <Row TextID="slot">
+      <ENGLISH>Slot</ENGLISH>
+      <CHINESE_SIMPLIFIED>工位</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工位</CHINESE_Traditional>
+    </Row>
+    <Row TextID="setPoint">
+      <ENGLISH>Datum point</ENGLISH>
+      <CHINESE_SIMPLIFIED>基准点</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>基準點</CHINESE_Traditional>
+    </Row>
+    <Row TextID="numOfProcessed">
+      <ENGLISH>Qty of Machining</ENGLISH>
+      <CHINESE_SIMPLIFIED>加工数量</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加工數量</CHINESE_Traditional>
+    </Row>
+    <Row TextID="completeCount">
+      <ENGLISH>Qty of Machined </ENGLISH>
+      <CHINESE_SIMPLIFIED>完成数量</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>完成數量</CHINESE_Traditional>
+    </Row>
+    <Row TextID="taskStatus1">
+      <ENGLISH>Not Machined</ENGLISH>
+      <CHINESE_SIMPLIFIED>未加工</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>未加工</CHINESE_Traditional>
+    </Row>
+    <Row TextID="taskStatus2">
+      <ENGLISH>Machined</ENGLISH>
+      <CHINESE_SIMPLIFIED>已加工</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>已加工</CHINESE_Traditional>
+    </Row>
+    <Row TextID="taskStatus3">
+      <ENGLISH>Machining</ENGLISH>
+      <CHINESE_SIMPLIFIED>正在加工</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>正在加工</CHINESE_Traditional>
+    </Row>
+    <Row TextID="taskStatus4">
+      <ENGLISH>Waiting for Machining</ENGLISH>
+      <CHINESE_SIMPLIFIED>待加工</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>待加工</CHINESE_Traditional>
+    </Row>
+    <Row TextID="taskStatus5">
+      <ENGLISH>Machining of error</ENGLISH>
+      <CHINESE_SIMPLIFIED>加工错误</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加工錯誤</CHINESE_Traditional>
+    </Row>
+    <Row TextID="taskStatus6">
+      <ENGLISH>Pause</ENGLISH>
+      <CHINESE_SIMPLIFIED>暂停</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>暫停</CHINESE_Traditional>
+    </Row>
+    <Row TextID="taskStatus7">
+      <ENGLISH>Not machining information</ENGLISH>
+      <CHINESE_SIMPLIFIED>无加工信息</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>無加工資訊</CHINESE_Traditional>
+    </Row>
+    <Row TextID="status">
+      <ENGLISH>Status</ENGLISH>
+      <CHINESE_SIMPLIFIED>状态</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>狀態</CHINESE_Traditional>
+    </Row>
+    <Row TextID="panelName">
+      <ENGLISH>Panel Name</ENGLISH>
+      <CHINESE_SIMPLIFIED>工件名称</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工件名稱</CHINESE_Traditional>
+    </Row>
+    <Row TextID="msg">
+      <ENGLISH>Msg</ENGLISH>
+      <CHINESE_SIMPLIFIED>信息</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>資訊</CHINESE_Traditional>
+    </Row>
+    <Row TextID="length">
+      <ENGLISH>Length</ENGLISH>
+      <CHINESE_SIMPLIFIED>板件长</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>板件長</CHINESE_Traditional>
+    </Row>
+    <Row TextID="width">
+      <ENGLISH>Width</ENGLISH>
+      <CHINESE_SIMPLIFIED>板件宽</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>板件寬</CHINESE_Traditional>
+    </Row>
+    <Row TextID="thickness">
+      <ENGLISH>Thickness</ENGLISH>
+      <CHINESE_SIMPLIFIED>板件厚</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>板件厚</CHINESE_Traditional>
+    </Row>
+    <Row TextID="BarCodeSpecification">
+      <ENGLISH>Barcode not inline with specification, please refer to [Parameter Setting] [Other Setting] to make sure to enable barcode match to settings？</ENGLISH>
+      <CHINESE_SIMPLIFIED>条形码规范，请查看【参数设置】【其他设置】是否启用了条形码信息且条码符合设定？</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>條碼規範，請查看【參數設置】【其他設定】是否啟用了條碼資訊且條碼符合設定？</CHINESE_Traditional>
+    </Row>
+    <Row TextID="setParamsWindowTitle">
+      <ENGLISH>Set Params</ENGLISH>
+      <CHINESE_SIMPLIFIED>参数设置</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>參數設置</CHINESE_Traditional>
+    </Row>
+    <Row TextID="barCodeSet">
+      <ENGLISH>Bar code settings</ENGLISH>
+      <CHINESE_SIMPLIFIED>条码设置</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>條碼設定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="beamParameters">
+      <ENGLISH>Beam parameters     </ENGLISH>
+      <CHINESE_SIMPLIFIED>大梁参数  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>大樑參數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="serialPortSettings">
+      <ENGLISH>Serial port settings    </ENGLISH>
+      <CHINESE_SIMPLIFIED>串口设置  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>串口設定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="processingPosSet">
+      <ENGLISH>The processing position settings     </ENGLISH>
+      <CHINESE_SIMPLIFIED>加工位设置  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加工比特設定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="machhiningPointSet">
+      <ENGLISH>The machhining position settings</ENGLISH>
+      <CHINESE_SIMPLIFIED>加工原点设置:</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加工原點設定：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="toolTable">
+      <ENGLISH>Tool table settings     </ENGLISH>
+      <CHINESE_SIMPLIFIED>刀具表  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>刀具錶</CHINESE_Traditional>
+    </Row>
+    <Row TextID="otherSettings">
+      <ENGLISH>Other Settingss     </ENGLISH>
+      <CHINESE_SIMPLIFIED>其他设置  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>其他設定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tblBarCodeTypeText">
+      <ENGLISH>Enable barcode information    </ENGLISH>
+      <CHINESE_SIMPLIFIED>启用条形码信息  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>啟用條碼資訊</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tblworkpieceIDTypeText">
+      <ENGLISH>WorkpieceID sizeof    </ENGLISH>
+      <CHINESE_SIMPLIFIED>工件ID  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工件ID</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tbllWTTypeText">
+      <ENGLISH>LWT Sizeof   </ENGLISH>
+      <CHINESE_SIMPLIFIED>长宽厚  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>長寬厚</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tblDecimalPointTypeText">
+      <ENGLISH>Decimal point   </ENGLISH>
+      <CHINESE_SIMPLIFIED>小数  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>小數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tblBitTypeText">
+      <ENGLISH>BIT   </ENGLISH>
+      <CHINESE_SIMPLIFIED>位  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>比特</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tbl2509DRMaxSize">
+      <ENGLISH>Max grooving size for Y-axis of 2509DR   </ENGLISH>
+      <CHINESE_SIMPLIFIED>2509DR Y轴最大开槽尺寸  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>2509DR Y軸最大開槽尺寸</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tblMPRStartTypeText">
+      <ENGLISH>File valid ID of MPR Start  </ENGLISH>
+      <CHINESE_SIMPLIFIED>MPR文件ID起始位  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>MPR檔案ID起始比特</CHINESE_Traditional>
+    </Row>
+    <Row TextID="tblMPRLengthTypeText">
+      <ENGLISH>Length   </ENGLISH>
+      <CHINESE_SIMPLIFIED>长度  </CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>長度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="beam">
+      <ENGLISH>Beam</ENGLISH>
+      <CHINESE_SIMPLIFIED>大梁</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>大樑</CHINESE_Traditional>
+    </Row>
+    <Row TextID="beamLength">
+      <ENGLISH>Beam length</ENGLISH>
+      <CHINESE_SIMPLIFIED>大梁长度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>大樑長度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="beamWidth">
+      <ENGLISH>Beam width</ENGLISH>
+      <CHINESE_SIMPLIFIED>大梁宽度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>大樑寬度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="baseWidth">
+      <ENGLISH>Base width</ENGLISH>
+      <CHINESE_SIMPLIFIED>底座宽度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>底座寬度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="beamQty">
+      <ENGLISH>Beam Qty</ENGLISH>
+      <CHINESE_SIMPLIFIED>大梁数</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>大樑數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="sucker">
+      <ENGLISH>Sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤</CHINESE_Traditional>
+    </Row>
+    <Row TextID="suckerType">
+      <ENGLISH>Sucker Type</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘类型</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤類型</CHINESE_Traditional>
+    </Row>
+    <Row TextID="suckerUpperLength">
+      <ENGLISH>Upper length of sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘上部长度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤上部長度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="suckerUpperWidth">
+      <ENGLISH>Upper width of sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘上部宽度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤上部寬度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="lowerLengthOfSucker">
+      <ENGLISH>Lower length of sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘下部长度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤下部長度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="lowerWidthOfSucker">
+      <ENGLISH>Lower width of sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘下部宽度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤下部寬度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="upperPartXOfSucker">
+      <ENGLISH>The upper part of the sucker is relative lower left X coordinate</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘上部相对下部左下X坐标</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤上部相對下部左下X座標</CHINESE_Traditional>
+    </Row>
+    <Row TextID="upperPartYOfSucker">
+      <ENGLISH>The upper part of the sucker is relative lower left Y coordinate</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘上部相对下部左下Y坐标</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤上部相對下部左下Y座標</CHINESE_Traditional>
+    </Row>
+    <Row TextID="heightOfSucker">
+      <ENGLISH>Height Of Sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>吸盘高度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>吸盤高度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="pores">
+      <ENGLISH>Pores</ENGLISH>
+      <CHINESE_SIMPLIFIED>气孔</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>氣孔</CHINESE_Traditional>
+    </Row>
+    <Row TextID="fixedPoints">
+      <ENGLISH>Fixed points</ENGLISH>
+      <CHINESE_SIMPLIFIED>固定点</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>固定點</CHINESE_Traditional>
+    </Row>
+    <Row TextID="poresAndFixedPoints">
+      <ENGLISH>Pores and fixed points</ENGLISH>
+      <CHINESE_SIMPLIFIED>气孔和固定点</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>氣孔和固定點</CHINESE_Traditional>
+    </Row>
+    <Row TextID="no">
+      <ENGLISH>No</ENGLISH>
+      <CHINESE_SIMPLIFIED>编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="type">
+      <ENGLISH>Type</ENGLISH>
+      <CHINESE_SIMPLIFIED>类型</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>類型</CHINESE_Traditional>
+    </Row>
+    <Row TextID="centerCoordinatesOfX">
+      <ENGLISH>The center coordinates of X</ENGLISH>
+      <CHINESE_SIMPLIFIED>圆心X坐标</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>圓心X座標</CHINESE_Traditional>
+    </Row>
+    <Row TextID="centerCoordinatesOfY">
+      <ENGLISH>The center coordinates of Y</ENGLISH>
+      <CHINESE_SIMPLIFIED>圆心Y坐标</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>圓心Y座標</CHINESE_Traditional>
+    </Row>
+    <Row TextID="diameter">
+      <ENGLISH>Diameter</ENGLISH>
+      <CHINESE_SIMPLIFIED>直径</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>直徑</CHINESE_Traditional>
+    </Row>
+    <Row TextID="safetyDistanceOfSucker">
+      <ENGLISH>Safety distance between reinforcement and sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>加固点与吸盘安全距离</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加固點與吸盤安全距離</CHINESE_Traditional>
+    </Row>
+    <Row TextID="scannerSettings">
+      <ENGLISH>Scanner settings</ENGLISH>
+      <CHINESE_SIMPLIFIED>扫描器设置</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>掃描器設定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="comSelection">
+      <ENGLISH>Com selection</ENGLISH>
+      <CHINESE_SIMPLIFIED>COM选择</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>COM選擇</CHINESE_Traditional>
+    </Row>
+    <Row TextID="baudRate">
+      <ENGLISH>Baud Rate</ENGLISH>
+      <CHINESE_SIMPLIFIED>波特率</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>串列傳輸速率</CHINESE_Traditional>
+    </Row>
+    <Row TextID="parity">
+      <ENGLISH>Parity</ENGLISH>
+      <CHINESE_SIMPLIFIED>奇偶校验</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>同位</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dataBits">
+      <ENGLISH>DataBits</ENGLISH>
+      <CHINESE_SIMPLIFIED>数据位</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>數據比特</CHINESE_Traditional>
+    </Row>
+    <Row TextID="stopBits">
+      <ENGLISH>StopBits</ENGLISH>
+      <CHINESE_SIMPLIFIED>结束位</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>結束比特</CHINESE_Traditional>
+    </Row>
+    <Row TextID="handshake">
+      <ENGLISH>Handshake</ENGLISH>
+      <CHINESE_SIMPLIFIED>协议</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>協定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="ledLampSerialPortSelection">
+      <ENGLISH>Led Serial port selection</ENGLISH>
+      <CHINESE_SIMPLIFIED>LED灯串口选择</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>LED燈串口選擇</CHINESE_Traditional>
+    </Row>
+    <Row TextID="station1">
+      <ENGLISH>Station 1</ENGLISH>
+      <CHINESE_SIMPLIFIED>工位1</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工位1</CHINESE_Traditional>
+    </Row>
+    <Row TextID="station2">
+      <ENGLISH>Station 2</ENGLISH>
+      <CHINESE_SIMPLIFIED>工位2</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工位2</CHINESE_Traditional>
+    </Row>
+    <Row TextID="station5">
+      <ENGLISH>Station 5</ENGLISH>
+      <CHINESE_SIMPLIFIED>工位5</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工位5</CHINESE_Traditional>
+    </Row>
+    <Row TextID="station6">
+      <ENGLISH>Station 6</ENGLISH>
+      <CHINESE_SIMPLIFIED>工位6</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工位6</CHINESE_Traditional>
+    </Row>
+    <Row TextID="referenceCoordinate">
+      <ENGLISH>Reference coordinate</ENGLISH>
+      <CHINESE_SIMPLIFIED>基准坐标</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>基準座標</CHINESE_Traditional>
+    </Row>
+    <Row TextID="datumPosition">
+      <ENGLISH>Datum position</ENGLISH>
+      <CHINESE_SIMPLIFIED>基准位</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>基準比特</CHINESE_Traditional>
+    </Row>
+    <Row TextID="xMaximumMachining">
+      <ENGLISH>X maximum machining dimension</ENGLISH>
+      <CHINESE_SIMPLIFIED>X最大加工尺寸</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>X最大加工尺寸</CHINESE_Traditional>
+    </Row>
+    <Row TextID="yMaximumMachining">
+      <ENGLISH>Y maximum machining dimension</ENGLISH>
+      <CHINESE_SIMPLIFIED>Y最大加工尺寸</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>Y最大加工尺寸</CHINESE_Traditional>
+    </Row>
+    <Row TextID="panelDirection">
+      <ENGLISH>Panel direction</ENGLISH>
+      <CHINESE_SIMPLIFIED>工件方向</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工件方向</CHINESE_Traditional>
+    </Row>
+    <Row TextID="machineType">
+      <ENGLISH>Machine type:</ENGLISH>
+      <CHINESE_SIMPLIFIED>机器类型:</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>機器類型：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="defaultUseStation">
+      <ENGLISH>Default use station:</ENGLISH>
+      <CHINESE_SIMPLIFIED>默认使用工位：</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>默認使用工位：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dockPositionX">
+      <ENGLISH>Dock position X:</ENGLISH>
+      <CHINESE_SIMPLIFIED>停靠位置X：</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>停靠位置X：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="cncName">
+      <ENGLISH>CNC Name:</ENGLISH>
+      <CHINESE_SIMPLIFIED>CNC名称：</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>CNC名稱：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="computerMappingDiskDir">
+      <ENGLISH>Computer mapping disk program folder path:</ENGLISH>
+      <CHINESE_SIMPLIFIED>电脑映射盘程序文件夹路径：</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>電腦映射盤程式資料夾路徑：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="osaiMappingDiskDir">
+      <ENGLISH>OSAI controller program folder path:</ENGLISH>
+      <CHINESE_SIMPLIFIED>OSAI控制器程序文件夹路径：</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>OSAI控制器程式資料夾路徑：</CHINESE_Traditional>
+    </Row>
+    <Row TextID="chContinuousProcessing">
+      <ENGLISH>Continuous Processing</ENGLISH>
+      <CHINESE_SIMPLIFIED>可连续加工</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>可連續加工</CHINESE_Traditional>
+    </Row>
+    <Row TextID="isPauseFace6Program">
+      <ENGLISH>Automatic pause face 6 processing</ENGLISH>
+      <CHINESE_SIMPLIFIED>自动暂停面6加工</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>自動暫停面6加工</CHINESE_Traditional>
+    </Row>
+    <Row TextID="chAcProcessingPosition">
+      <ENGLISH>Acquisition processing position</ENGLISH>
+      <CHINESE_SIMPLIFIED>标记下一个加工位</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>標記下一個加工位</CHINESE_Traditional>
+    </Row>
+    <Row TextID="chUseFourSlot">
+      <ENGLISH>Can be used continuously for four station</ENGLISH>
+      <CHINESE_SIMPLIFIED>可连续使用四工位</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>可連續使用四工位</CHINESE_Traditional>
+    </Row>
+    <Row TextID="chUseExternalMachineCode">
+      <ENGLISH>Using an external machine code file</ENGLISH>
+      <CHINESE_SIMPLIFIED>使用外部机代码文件</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>使用外部機程式碼檔案</CHINESE_Traditional>
+    </Row>
+    <Row TextID="chIsRotate180">
+      <ENGLISH>Workpiece rotation 180 degrees</ENGLISH>
+      <CHINESE_SIMPLIFIED>工件旋转180°</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工件旋轉180°</CHINESE_Traditional>
+    </Row>
+    <Row TextID="chIsLRFlip">
+      <ENGLISH>Only horizontal hole to turn over the surface</ENGLISH>
+      <CHINESE_SIMPLIFIED>仅水平孔左右翻面</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>僅水准孔左右翻面</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnLoadToolsAnddrillsXmlToDb">
+      <ENGLISH>Import tool table...</ENGLISH>
+      <CHINESE_SIMPLIFIED>导入刀具表...</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>導入刀具錶…</CHINESE_Traditional>
+    </Row>
+    <Row TextID="hDrill">
+      <ENGLISH>H-Drill</ENGLISH>
+      <CHINESE_SIMPLIFIED>水平钻头</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>水准鑽頭</CHINESE_Traditional>
+    </Row>
+    <Row TextID="vDrill">
+      <ENGLISH>V-Drill</ENGLISH>
+      <CHINESE_SIMPLIFIED>垂直钻头</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>垂直鑽頭</CHINESE_Traditional>
+    </Row>
+    <Row TextID="headerVdrill">
+      <ENGLISH>V-Drill</ENGLISH>
+      <CHINESE_SIMPLIFIED>垂直孔</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>垂直孔</CHINESE_Traditional>
+    </Row>
+    <Row TextID="headerHdrill">
+      <ENGLISH>H-Drill</ENGLISH>
+      <CHINESE_SIMPLIFIED>水平孔</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>水准孔</CHINESE_Traditional>
+    </Row>
+    <Row TextID="headerMilling">
+      <ENGLISH>Milling cutter</ENGLISH>
+      <CHINESE_SIMPLIFIED>铣刀</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>銑刀</CHINESE_Traditional>
+    </Row>
+    <Row TextID="headerSlot">
+      <ENGLISH>Saw</ENGLISH>
+      <CHINESE_SIMPLIFIED>槽锯</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>槽鋸</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDrillNo">
+      <ENGLISH>Drill No.</ENGLISH>
+      <CHINESE_SIMPLIFIED>钻头编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>鑽頭編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDrillNo2">
+      <ENGLISH>Related Drill No.</ENGLISH>
+      <CHINESE_SIMPLIFIED>对应刀具编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>對應刀具編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDrillType">
+      <ENGLISH>Drilling Side</ENGLISH>
+      <CHINESE_SIMPLIFIED>钻头加工面</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>鑽頭加工面</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDrillDiameter">
+      <ENGLISH>Drill Diameter</ENGLISH>
+      <CHINESE_SIMPLIFIED>钻头直径</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>鑽頭直徑</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDrillMaxDepth">
+      <ENGLISH>Max. Drilling depth</ENGLISH>
+      <CHINESE_SIMPLIFIED>最大钻孔深度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>最大鑽孔深度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgSafeHeight">
+      <ENGLISH>Safe Z</ENGLISH>
+      <CHINESE_SIMPLIFIED>安全高度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>安全高度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgRHeight">
+      <ENGLISH>Rapid Z</ENGLISH>
+      <CHINESE_SIMPLIFIED>R平面高度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>R平面高度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgRunSpeed">
+      <ENGLISH>Spindle steering</ENGLISH>
+      <CHINESE_SIMPLIFIED>主轴转速</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>主軸轉速</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgRunDirection">
+      <ENGLISH>Spindle speed</ENGLISH>
+      <CHINESE_SIMPLIFIED>主轴转向</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>主軸轉向</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDrillSpeed">
+      <ENGLISH>Drilling speed</ENGLISH>
+      <CHINESE_SIMPLIFIED>进给速度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>進給速度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgRunDirection">
+      <ENGLISH>Spindle steering</ENGLISH>
+      <CHINESE_SIMPLIFIED>主轴转向</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>主軸轉向</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgHoleBottomPauseTime">
+      <ENGLISH>HoleBottomPauseTime(ms)</ENGLISH>
+      <CHINESE_SIMPLIFIED>盲孔底部暂停时间(ms)</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>盲孔底部暫停時間（ms）</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgMemo">
+      <ENGLISH>Memo</ENGLISH>
+      <CHINESE_SIMPLIFIED>备注</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>備註</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgBreakSpeed">
+      <ENGLISH>Skin breaking speed</ENGLISH>
+      <CHINESE_SIMPLIFIED>破皮速度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>破皮速度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgBreakDepth">
+      <ENGLISH>Skin breaking depth</ENGLISH>
+      <CHINESE_SIMPLIFIED>破皮深度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>破皮深度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgBreakHeight">
+      <ENGLISH>Plane height of broken skin</ENGLISH>
+      <CHINESE_SIMPLIFIED>破皮平面高度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>破皮平面高度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgToolNo">
+      <ENGLISH>Tool No.</ENGLISH>
+      <CHINESE_SIMPLIFIED>刀具编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>刀具編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgToolNo2">
+      <ENGLISH>Related Tool No.</ENGLISH>
+      <CHINESE_SIMPLIFIED>对应刀具编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>對應刀具編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgPos">
+      <ENGLISH>Pos</ENGLISH>
+      <CHINESE_SIMPLIFIED>位置</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>位置</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgCode">
+      <ENGLISH>Code</ENGLISH>
+      <CHINESE_SIMPLIFIED>编码</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>編碼</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgToolDiameter">
+      <ENGLISH>Tool diameter</ENGLISH>
+      <CHINESE_SIMPLIFIED>刀具直径</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>刀具直徑</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgToolRunSpeed">
+      <ENGLISH>Spindle speed</ENGLISH>
+      <CHINESE_SIMPLIFIED>主轴转速</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>主軸轉速</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDownSpeed">
+      <ENGLISH>Down speed</ENGLISH>
+      <CHINESE_SIMPLIFIED>下刀速度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>下刀速度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgReturnSpeed">
+      <ENGLISH>Return speed</ENGLISH>
+      <CHINESE_SIMPLIFIED>返回速度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>返回速度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgFixedDepth">
+      <ENGLISH>Fixed depth</ENGLISH>
+      <CHINESE_SIMPLIFIED>修正深度</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>修正深度</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgGroovingDirection">
+      <ENGLISH>Grooving direction</ENGLISH>
+      <CHINESE_SIMPLIFIED>开槽方向</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>開槽方向</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgMillingToolSmallType">
+      <ENGLISH>Type of milling cutter</ENGLISH>
+      <CHINESE_SIMPLIFIED>铣刀类型</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>銑刀類型</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgPlainCutter">
+      <ENGLISH>Plain milling cutter</ENGLISH>
+      <CHINESE_SIMPLIFIED>普通铣刀</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>普通銑刀</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgSpindleP">
+      <ENGLISH>Spindle P slot cutter</ENGLISH>
+      <CHINESE_SIMPLIFIED>主轴P槽刀</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>主軸P槽刀</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgCP">
+      <ENGLISH>C axis P slot knife</ENGLISH>
+      <CHINESE_SIMPLIFIED>C轴P槽刀</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>C軸P槽刀</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgCP45">
+      <ENGLISH>C axis P45 slot knife</ENGLISH>
+      <CHINESE_SIMPLIFIED>C轴45度P链接铣刀</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>C軸45度P連結銑刀</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgCC45">
+      <ENGLISH>C axis C45 slot knife</ENGLISH>
+      <CHINESE_SIMPLIFIED>C轴45度C开槽铣刀</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>C軸45度C開槽銑刀</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgCR">
+      <ENGLISH>C axis R slot knife</ENGLISH>
+      <CHINESE_SIMPLIFIED>C轴R开槽铣刀</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>C軸R開槽銑刀</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgC45">
+      <ENGLISH>C axis C45 hole knife</ENGLISH>
+      <CHINESE_SIMPLIFIED>斜45度钻孔</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>斜45度鑽孔</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgHorizontalAxisOffset">
+      <ENGLISH>Horizontal axis offset</ENGLISH>
+      <CHINESE_SIMPLIFIED>水平轴心偏移量</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>水准軸心偏移量</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgGantryNo">
+      <ENGLISH>Gantry No</ENGLISH>
+      <CHINESE_SIMPLIFIED>龙门编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>龍門編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgMachineHeadNo">
+      <ENGLISH>MachineHead No</ENGLISH>
+      <CHINESE_SIMPLIFIED>机头编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>機頭編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="dgDrilledPackNo">
+      <ENGLISH>DrilledPackNo</ENGLISH>
+      <CHINESE_SIMPLIFIED>钻包编号</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>鑽包編號</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnAdd">
+      <ENGLISH>Add</ENGLISH>
+      <CHINESE_SIMPLIFIED>添加</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>添加</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnEdit">
+      <ENGLISH>Edit</ENGLISH>
+      <CHINESE_SIMPLIFIED>编辑</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>編輯</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnDelete">
+      <ENGLISH>Delete</ENGLISH>
+      <CHINESE_SIMPLIFIED>删除</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>删除</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnOK">
+      <ENGLISH>OK</ENGLISH>
+      <CHINESE_SIMPLIFIED>确定</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>確定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="btnCancel">
+      <ENGLISH>Cancel</ENGLISH>
+      <CHINESE_SIMPLIFIED>取消</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>取消</CHINESE_Traditional>
+    </Row>
+    <Row TextID="modifyTaskList">
+      <ENGLISH>Modify the task list</ENGLISH>
+      <CHINESE_SIMPLIFIED>修改任务列表</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>修改任務清單</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt1">
+      <ENGLISH>Select the Machining Type</ENGLISH>
+      <CHINESE_SIMPLIFIED>请选择不导入和不生成G码的加工类型</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>請選擇不導入和不生成G碼的加工類型</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt2">
+      <ENGLISH>Don't import</ENGLISH>
+      <CHINESE_SIMPLIFIED>不导入的加工类型</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>不導入的加工類型</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt3">
+      <ENGLISH>Don't generate G-code</ENGLISH>
+      <CHINESE_SIMPLIFIED>不生成G码的加工类型</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>不生成G碼的加工類型</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt4">
+      <ENGLISH>H-Drill</ENGLISH>
+      <CHINESE_SIMPLIFIED>水平孔</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>水准孔</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt5">
+      <ENGLISH>V-Drill</ENGLISH>
+      <CHINESE_SIMPLIFIED>垂直孔</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>垂直孔</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt6">
+      <ENGLISH>Milling</ENGLISH>
+      <CHINESE_SIMPLIFIED>铣形</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>銑形</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt7">
+      <ENGLISH>Grooving</ENGLISH>
+      <CHINESE_SIMPLIFIED>开槽</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>開槽</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt8">
+      <ENGLISH>Related Grooving</ENGLISH>
+      <CHINESE_SIMPLIFIED>关联开槽</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>關聯開槽</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt9">
+      <ENGLISH>Not import processing type output directory (file called the original file name plus "- filter")</ENGLISH>
+      <CHINESE_SIMPLIFIED>未导入的加工类型输出目录（文件名为原文件名加【-filter】）</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>未導入的加工類型輸出目錄（檔名為原檔名加【-filter】）</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt10">
+      <ENGLISH>Yes</ENGLISH>
+      <CHINESE_SIMPLIFIED>确定</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>確定</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt11">
+      <ENGLISH>Generate nc drill AUT program</ENGLISH>
+      <CHINESE_SIMPLIFIED>生成数控钻AUT程序</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>生成數控鑽AUT程式</CHINESE_Traditional>
+    </Row>
+    <Row TextID="filterMachiningtxt12">
+      <ENGLISH>Nc drilling tool table XML file path</ENGLISH>
+      <CHINESE_SIMPLIFIED>数控钻刀具表xml文件路径</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>數控鑽刀具錶xml檔案路徑</CHINESE_Traditional>
+    </Row>
+    <Row TextID="rotatingWorkpiece">
+      <ENGLISH>Rotating workpiece</ENGLISH>
+      <CHINESE_SIMPLIFIED>旋转工件</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>旋轉工件</CHINESE_Traditional>
+    </Row>
+    <Row TextID="rotatingWorkpiece180">
+      <ENGLISH>Rotating workpiece 180°</ENGLISH>
+      <CHINESE_SIMPLIFIED>旋转工件180°</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>旋轉工件180°</CHINESE_Traditional>
+    </Row>
+    <Row TextID="autoAddBeamAndSucker">
+      <ENGLISH>Automatically add beam and sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>自动添加大梁和吸盘</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>自動添加大樑和吸盤</CHINESE_Traditional>
+    </Row>
+    <Row TextID="addSucker">
+      <ENGLISH>Add sucker...</ENGLISH>
+      <CHINESE_SIMPLIFIED>添加吸盘...</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>添加吸盤…</CHINESE_Traditional>
+    </Row>
+    <Row TextID="deleteSucker">
+      <ENGLISH>Delete sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>删除吸盘</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>删除吸盤</CHINESE_Traditional>
+    </Row>
+    <Row TextID="deleteAllSucker">
+      <ENGLISH>Delete all sucker</ENGLISH>
+      <CHINESE_SIMPLIFIED>删除全部吸盘</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>删除全部吸盤</CHINESE_Traditional>
+    </Row>
+    <Row TextID="showBeam">
+      <ENGLISH>show beam</ENGLISH>
+      <CHINESE_SIMPLIFIED>显示大梁</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>顯示大樑</CHINESE_Traditional>
+    </Row>
+    <Row TextID="hideBeam">
+      <ENGLISH>Hide beam</ENGLISH>
+      <CHINESE_SIMPLIFIED>隐藏大梁</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>隱藏大樑</CHINESE_Traditional>
+    </Row>
+    <Row TextID="closeTheLed">
+      <ENGLISH>Close the Led</ENGLISH>
+      <CHINESE_SIMPLIFIED>关闭LED灯</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>關閉LED燈</CHINESE_Traditional>
+    </Row>
+    <Row TextID="rightBtnPressed">
+      <ENGLISH>Right area start button is pressed,</ENGLISH>
+      <CHINESE_SIMPLIFIED>“右”区启动按钮被按下，</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>“右”區啟動按鈕被按下，</CHINESE_Traditional>
+    </Row>
+    <Row TextID="leftBtnPressed">
+      <ENGLISH>Left area start button is pressed,</ENGLISH>
+      <CHINESE_SIMPLIFIED>“左”区启动按钮被按下，</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>“左”區啟動按鈕被按下，</CHINESE_Traditional>
+    </Row>
+    <Row TextID="doubleAreaFree">
+      <ENGLISH>Double area free</ENGLISH>
+      <CHINESE_SIMPLIFIED>“双”区空闲</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>“雙”區空閒</CHINESE_Traditional>
+    </Row>
+    <Row TextID="workOfLeftArea">
+      <ENGLISH>Work in the left area...</ENGLISH>
+      <CHINESE_SIMPLIFIED>“左”区工作中。。。</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>“左”區工作中。。。</CHINESE_Traditional>
+    </Row>
+    <Row TextID="workOfRightArea">
+      <ENGLISH>Work in the right area...</ENGLISH>
+      <CHINESE_SIMPLIFIED>“右”区工作中。。。</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>“右”區工作中。。。</CHINESE_Traditional>
+    </Row>
+    <Row TextID="singleAreaWork">
+      <ENGLISH>Single area work...</ENGLISH>
+      <CHINESE_SIMPLIFIED>“单”区工作中。。。</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>“單”區工作中。。。</CHINESE_Traditional>
+    </Row>
+    <Row TextID="connectionError">
+      <ENGLISH>Connection error, please check the log</ENGLISH>
+      <CHINESE_SIMPLIFIED>连接出错，详情请查询日志</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>連接出錯，詳情請査詢日誌</CHINESE_Traditional>
+    </Row>
+    <Row TextID="isDeleteProgram">
+      <ENGLISH>Are you sure you want to delete the selected program?</ENGLISH>
+      <CHINESE_SIMPLIFIED>是否删除所选程序？</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>是否删除所選程式？</CHINESE_Traditional>
+    </Row>
+    <Row TextID="beingMachiningOrWillMachining">
+      <ENGLISH>The workpiece being machining or to will machining can not be removed.</ENGLISH>
+      <CHINESE_SIMPLIFIED>正在加工或待加工工件不能删除</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>正在加工或待加工工件不能删除</CHINESE_Traditional>
+    </Row>
+    <Row TextID="stopMachiningAndClosePro">
+      <ENGLISH>Please stop machining and then close the program</ENGLISH>
+      <CHINESE_SIMPLIFIED>请停止加工再关闭程序</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>請停止加工再關閉程式</CHINESE_Traditional>
+    </Row>
+    <Row TextID="error">
+      <ENGLISH>Error</ENGLISH>
+      <CHINESE_SIMPLIFIED>错误</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>錯誤</CHINESE_Traditional>
+    </Row>
+    <Row TextID="inputIntegerOnly">
+      <ENGLISH>Input integer only</ENGLISH>
+      <CHINESE_SIMPLIFIED>只能输入整数</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>只能輸入整數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="inputIntegerOnly">
+      <ENGLISH>Input integer only</ENGLISH>
+      <CHINESE_SIMPLIFIED>只能输入整数</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>只能輸入整數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="inputIntegerOnlyBetween1-4">
+      <ENGLISH>Can only enter the integer between 1-4</ENGLISH>
+      <CHINESE_SIMPLIFIED>只能输入1-4之间的整数</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>只能輸入1-4之間的整數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="inputIntegerOnlyBetween5-6">
+      <ENGLISH>Can only enter the integer between 5-6</ENGLISH>
+      <CHINESE_SIMPLIFIED>只能输入5-6之间的整数</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>只能輸入5-6之間的整數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="onlyFloatingPoint">
+      <ENGLISH>Can only enter floating point</ENGLISH>
+      <CHINESE_SIMPLIFIED>只能输入浮点数</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>只能輸入浮點數</CHINESE_Traditional>
+    </Row>
+    <Row TextID="controllerMode">
+      <ENGLISH>Please set the controller to automatic mode</ENGLISH>
+      <CHINESE_SIMPLIFIED>请将控制器设置为自动执行模式</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>請將控制器設定為自動執行模式</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblNoTready">
+      <ENGLISH>Not ready</ENGLISH>
+      <CHINESE_SIMPLIFIED>未就绪</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>未就緒</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblReady">
+      <ENGLISH>Ready</ENGLISH>
+      <CHINESE_SIMPLIFIED>就绪</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>就緒</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblStart">
+      <ENGLISH>Run</ENGLISH>
+      <CHINESE_SIMPLIFIED>加工中</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>加工中</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblFeedHold">
+      <ENGLISH>Pause</ENGLISH>
+      <CHINESE_SIMPLIFIED>暂停</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>暫停</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblTaskStop">
+      <ENGLISH>Stop</ENGLISH>
+      <CHINESE_SIMPLIFIED>停止</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>停止</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblFree">
+      <ENGLISH>Idle</ENGLISH>
+      <CHINESE_SIMPLIFIED>空闲</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>空閒</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblCommandMove">
+      <ENGLISH>Command to move</ENGLISH>
+      <CHINESE_SIMPLIFIED>有命令移动中</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>有命令移動中</CHINESE_Traditional>
+    </Row>
+    <Row TextID="LblWorking">
+      <ENGLISH>Working</ENGLISH>
+      <CHINESE_SIMPLIFIED>工作中</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>工作中</CHINESE_Traditional>
+    </Row>
+    <Row TextID="msgToolLoadInfo">
+      <ENGLISH>Imported machine type for {0}, and the current models {1} different, whether or not forced into the current model?</ENGLISH>
+      <CHINESE_SIMPLIFIED>导入的机器类型为{0}，与当前机型{1}不同,是否强制转化为当前机型?</CHINESE_SIMPLIFIED>
+      <CHINESE_Traditional>導入的機器類型為{0}，與當前機型{1}不同，是否強制轉化為當前機型？</CHINESE_Traditional>
+    </Row>
+  </Config>
+</root>
